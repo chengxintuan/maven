@@ -9,7 +9,7 @@
 </head>
 <body>
 <div>hello world!!!</div>
-<div>hello xintuancheng!!!</div>
+<div>hello xintuanch!!!</div>
 <div>hello xiaocheng!!!</div>
 <div>hello xiaohuang!!!</div>
 </body>
