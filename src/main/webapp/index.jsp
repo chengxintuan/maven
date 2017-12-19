@@ -10,7 +10,5 @@
 <body>
 <div>hello world!!!</div>
 <div>hello xintuancheng!!!</div>
-<div>hello xiaocheng!!!</div>
-<div>hello xiaohuang!!!</div>
 </body>
 </html>
